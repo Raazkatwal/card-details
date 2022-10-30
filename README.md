@@ -30,7 +30,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: 
+- Solution URL: https://www.frontendmentor.io/solutions/interactive-card-detail-form-fCGRA_tbIV
 - Live Site URL: https://raazkatwal.github.io/card-details/
 
 ## My process
